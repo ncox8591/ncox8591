@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi, I'm Naquira! <a href="https://github.com/ncox8591">Programmer</a>, <a href="linkedin.com/in/Naquira">Private Data Pro, Storyteller</a>
 
-<!--
-**ncox8591/ncox8591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>ABOUT ME</h2>
+Hello there, I'm a recent college grad and programming hobbyist.  <br/>
+I enjoy coding, video games, and writing.  <br/>
+I dream of a world that is accessible for all. 🌎 <br/>
+ <br/>
+📚 Now Reading: Djinn Rebellion Series <br/>
+🎸 Listening to: True Crime Garage Podcast <br/>
+📺 Currently watching: Superstore <br/>
+🍿 Snacking on: Giant Tri-Flavor Holiday Popcorn Tins <br/>
+🪅 Enjoying: Terraria <br/>
+ <br/>
+I'm easy to talk to! Let's connect. <br/>
 
-Here are some ideas to get you started:
+LinkedIn: www.linkedin.com/in/naquira <br/>
+Email:    coxnaquira@gmail.com <br/>
+ <br/>
+Check out my projects! ⬇️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>JAVA</h2>
+<h3>Java Basics</h3>
+<h3>JavaFX</h3>
+<h3>Java Database Programming</h3>
+<h3>JavaServer Faces</h3>
+
+<h2>INKLE</h2>
