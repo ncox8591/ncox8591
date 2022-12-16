@@ -11,7 +11,8 @@ I dream of a world that is accessible for all. 🌎 <br/>
 🎸 Listening to: True Crime Garage Podcast <br/>
 📺 Currently watching: Superstore <br/>
 🍿 Snacking on: Giant Tri-Flavor Holiday Popcorn Tins <br/>
-🪅 Enjoying: Terraria with Family and Friends<br/>
+🪅 Gaming: Terraria with Family and Friends; Story of Seasons: Pioneers of Olive Town<br/>
+🏡 Enjoying: WFH, marriage, pets, my new degree, and relaxing. Life is good
  <br/>
 I'm easy to talk to! Let's connect. <br/>
 
