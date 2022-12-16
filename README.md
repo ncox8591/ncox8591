@@ -12,8 +12,8 @@ I dream of a world that is accessible for all. 🌎 <br/>
 📺 Currently watching: Superstore <br/>
 🍿 Snacking on: Giant Tri-Flavor Holiday Popcorn Tins <br/>
 🪅 Gaming: Terraria with Family and Friends; Story of Seasons: Pioneers of Olive Town<br/>
-🏡 Enjoying: WFH, marriage, pets, my new degree, and relaxing. Life is good
- <br/>
+🏡 Enjoying: WFH, marriage, pets, my new degree, and relaxing. Life is good.
+ <br/><br/>
 I'm easy to talk to! Let's connect. <br/>
 
 LinkedIn: www.linkedin.com/in/naquira <br/>
