@@ -1,6 +1,6 @@
 ![matrix-4646234_960_720](https://user-images.githubusercontent.com/120606330/207928103-37abbd2a-a96a-40e0-b287-45242dc55d24.jpg)
 <h1 align="center"> Hi, I'm Naquira! <br/>
- <a href="https://github.com/ncox8591">Programmer</a>, <a href="https://www.linkedin.com/in/naquira/">Private Data Pro, Storyteller</a></p></h1>
+ <a href="https://github.com/ncox8591">Programmer</a>, <a href="https://www.linkedin.com/in/naquira/">Private Data Pro</a>, <a href="https://github.com/ncox8591/inkle">Storyteller</a></p></h1>
 
 <h2>ABOUT ME</h2>
 Hello there, I'm a recent college grad and programming hobbyist.  <br/>
