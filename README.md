@@ -20,10 +20,12 @@ Email:    coxnaquira@gmail.com <br/>
  <br/>
 Check out my projects! ⬇️
 
-<h2>JAVA</h2>
-<h3><a href="https://github.com/ncox8591/java-basics">Java Basics</a></h3>
-<h3><a href="https://github.com/ncox8591/javafx">JavaFX</a></h3>
-<h3>Java Database Programming</h3>
-<h3>JavaServer Faces</h3>
+<h2><a href="https://github.com/ncox8591/inkle">INKLE</a></h2>
 
-<h2>INKLE</h2>
+<h2>JAVA</h2>
+<h3>⤷ <a href="https://github.com/ncox8591/java-basics">Java Basics</a></h3>
+<h3>⤷ <a href="https://github.com/ncox8591/javafx">JavaFX</a></h3>
+<h3>⤷ Java Database Programming</h3>
+<h3>⤷ JavaServer Faces</h3>
+
+
